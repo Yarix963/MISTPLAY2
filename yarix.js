@@ -26,3 +26,10 @@ iniciar ()
 .catch (err => console.log("unexpected error: " + err))
 
 
+case 'menu':
+if (!isRegister) return reply(mess.only.usrReg)
+const menu = {
+text: `*${pushname}*
+
+*_EL BOT TODAVIA ESTA SIENDO PROGRAMADA POR YARIX ESPERA ENTRE 3 DIAS O MAS O MENOS_*
+break
