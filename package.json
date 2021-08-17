@@ -1,0 +1,12 @@
+{
+  "name": "Nombre",
+  "version": "0.0.0",
+  "description": "",
+  "main": "mistplay.js",
+  "scripts": {
+  "start": "mistplay.js"
+  },
+  "dependencies": {
+    "@adiwajshing/baileys": "^3.4.1"
+  }
+}
